@@ -21,26 +21,15 @@ https://developer.twitter.com/en/docs/twitter-api/getting-started/make-your-firs
 [How to analyze the sentiment of your own Tweets](
 https://developer.twitter.com/en/docs/tutorials/how-to-analyze-the-sentiment-of-your-own-tweets)
 
- [Beginner - Getting started with Postman](https://developer.twitter.com/en/docs/tutorials/postman-getting-started)
+[Beginner - Getting started with Postman](https://developer.twitter.com/en/docs/tutorials/postman-getting-started)
 
- [Using Search Tweets and Twilio to solve a problem](https://developer.twitter.com/en/docs/tutorials/nyc-parking)
+[Using Search Tweets and Twilio to solve a problem](https://developer.twitter.com/en/docs/tutorials/nyc-parking)
 
 [Query builder, Twitter API v2 request generator, and convert v1.1 to v2](https://developer.twitter.com/apitools/)
 
 
-## Python
-[In this guide, you have learned how to make a Twitter bot that can fetch trending hashtags and tweets of different geographic locations.](https://www.pluralsight.com/guides/building-a-twitter-bot-with-python
-)
+General resources to help you get creative with the Twitter API,
+check the [Twitter API](https://developer.twitter.com/en/docs/tweets/timelines/api-reference/timeline-statuses-home_timeline) for more information
 
-[Twitter bot for slack](https://www.activestate.com/blog/how-to-build-a-twitter-bot-for-slack-with-python/)
-
-[Retweet Bot](https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/)
-
-[Tweets, hashtags, limits ](https://python.plainenglish.io/step-by-step-guide-to-python-twitter-bot-with-tweepy-in-15min-f3c8b50a5429)
-
-[Replies to Tweets](https://python.plainenglish.io/i-made-a-twitter-bot-using-tweepy-ab62c7074402)
-
-[Tweepy + AUth0](https://auth0.com/blog/how-to-make-a-twitter-bot-in-python-using-tweepy/)
-
-## Node JS
-[Twitter Bot with replies](https://towardsdatascience.com/building-a-real-time-twitter-bot-that-replies-with-media-e353fff1c395)
+- [Python based resources](/Python/README.md)
+- [NodeJS based resources](/NodeJS/README.md)
