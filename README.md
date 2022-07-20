@@ -1,6 +1,6 @@
 # Resources to Learn to Build on the Twitter API
 
-Resources to get creative with the Twitter API
+Official Twitter Resources to get creative with the Twitter API
 
 [About the Twitter API](https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api)
 
