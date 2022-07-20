@@ -13,7 +13,7 @@ https://developer.twitter.com/en/docs/twitter-api/getting-started/make-your-firs
 
 [Twitter API v2 tools and libraries](https://developer.twitter.com/en/docs/twitter-api/tools-and-libraries/v2)
 
- [How to store streaming Tweets in a Google Sheet](
+[How to store streaming Tweets in a Google Sheet](
  https://developer.twitter.com/en/docs/tutorials/how-to-store-streaming-tweets-in-a-google-sheet)
 
 [End-to-end building an app to stream Tweets in real-time](https://developer.twitter.com/en/docs/tutorials/building-an-app-to-stream-tweets)
@@ -28,8 +28,7 @@ https://developer.twitter.com/en/docs/tutorials/how-to-analyze-the-sentiment-of-
 [Query builder, Twitter API v2 request generator, and convert v1.1 to v2](https://developer.twitter.com/apitools/)
 
 
-General resources to help you get creative with the Twitter API,
-check the [Twitter API](https://developer.twitter.com/en/docs/tweets/timelines/api-reference/timeline-statuses-home_timeline) for more information
+General resources to help you get creative with the Twitter API
 
-- [Python based resources](/Python/README.md)
-- [NodeJS based resources](/NodeJS/README.md)
+[Python based resources](/Python/README.md)
+[NodeJS based resources](/NodeJS/README.md)
